@@ -16,8 +16,6 @@ python main.py
 ## Características v1.3
 
 ✅ Búsqueda precisa por CPE
-✅ Firefox 135: 3 CVE detectadas
-✅ Java 8: Log4Shell detectada
 ✅ Sin errores de nombre
 ✅ UI preservada original
 ✅ Reporte HTML completo
@@ -33,4 +31,4 @@ python main.py
 
 ## Versión
 
-v1.3 - Octubre 2025 - MIT License
+v1.3 - Octubre 2025 - Apache 2.0 License
