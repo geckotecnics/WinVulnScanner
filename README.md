@@ -4,23 +4,25 @@ Escáner de vulnerabilidades para Windows con búsqueda precisa por CPE.
 
 ## ¿Qué es v1.3?
 
-v1.3 es la versión definitiva que migra completamente a búsqueda por CPE (Common Platform Enumeration) para eliminar todos los errores de coincidencia de nombres.
+v1.3 es la versión definitiva de WinVulnScanner que migra completamente a búsqueda por CPE (Common Platform Enumeration) para eliminar todos los errores de coincidencia de nombres.
 
 ## Instalación Rápida
 
-```powershell
+```
+# En powershell:
 pip install -r requirements.txt
 python main.py
+
 ```
 
 ## Características v1.3
 
-✅ Búsqueda precisa por CPE
-✅ Sin errores de nombre
+✅ Búsqueda precisa por CPE en cada ejecución
+✅ Sin errores de coincidencia de nombre
 ✅ UI preservada original
 ✅ Reporte HTML completo
 ✅ Consola Rich formateada
-✅ 15+ software soportado
+✅ Sin límite de software soportado
 
 ## Requisitos
 
@@ -31,4 +33,4 @@ python main.py
 
 ## Versión
 
-v1.3 - Octubre 2025 - Apache 2.0 License
+WinVulnScanner v1.3 - Octubre 2025 - Apache 2.0 License
